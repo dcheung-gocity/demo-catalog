@@ -4,5 +4,5 @@ metadata:
   name: kotlin-demo
   description: kotlin Demo System
 spec:
-  owner: guests
+  owner: team-a
   domain: kotlin
