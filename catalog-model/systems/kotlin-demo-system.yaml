@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: kotlin-demo
+  description: kotlin Demo System
+spec:
+  owner: guests
+  domain: kotlin
