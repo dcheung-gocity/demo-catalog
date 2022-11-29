@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: kotlin-demo
+  name: kotlin
   description: Everything related to kotlin demo
 spec:
-  owner: guests
+  owner: team-a
